@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Zeke Realty \u0026 Construction Development V3",
+  "description": "Modern architectural, construction, land development, and realty services homepage for Zeke Realty and Construction Development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
